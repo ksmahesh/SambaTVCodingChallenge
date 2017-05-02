@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.wundergroundTests.SeleniumTests.CustomizeTabTests">
+        <methods>
+          <include name="setup"/>
+          <include name="clickCustomizeAndCheckForOverlay"/>
+          <include name="cleanup"/>
+          <include name="isPlotNeedleVisible"/>
+        </methods>
+      </class> <!-- com.wundergroundTests.SeleniumTests.CustomizeTabTests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

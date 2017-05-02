@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101374" started-at="2017-05-02T10:49:43Z" finished-at="2017-05-02T10:51:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101374" started-at="2017-05-02T10:49:43Z" finished-at="2017-05-02T10:51:25Z">
+      <class name="com.wundergroundTests.SeleniumTests.CustomizeTabTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wundergroundTests.SeleniumTests.CustomizeTabTests@6f7fd0e6]" name="setup" is-config="true" duration-ms="2531" started-at="2017-05-02T05:49:43Z" finished-at="2017-05-02T05:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkIfCustomizeButtonIsDisplayed()[pri:0, instance:com.wundergroundTests.SeleniumTests.CustomizeTabTests@6f7fd0e6]" name="checkIfCustomizeButtonIsDisplayed" duration-ms="55" started-at="2017-05-02T05:49:46Z" finished-at="2017-05-02T05:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIfCustomizeButtonIsDisplayed -->
+        <test-method status="PASS" signature="clickCustomizeAndCheckForOverlay()[pri:0, instance:com.wundergroundTests.SeleniumTests.CustomizeTabTests@6f7fd0e6]" name="clickCustomizeAndCheckForOverlay" duration-ms="98340" started-at="2017-05-02T05:49:46Z" finished-at="2017-05-02T05:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCustomizeAndCheckForOverlay -->
+        <test-method status="PASS" signature="isPlotNeedleVisible()[pri:0, instance:com.wundergroundTests.SeleniumTests.CustomizeTabTests@6f7fd0e6]" name="isPlotNeedleVisible" duration-ms="184" started-at="2017-05-02T05:51:24Z" finished-at="2017-05-02T05:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPlotNeedleVisible -->
+        <test-method status="PASS" signature="isPlotNeedleVisibleWithValues()[pri:0, instance:com.wundergroundTests.SeleniumTests.CustomizeTabTests@6f7fd0e6]" name="isPlotNeedleVisibleWithValues" duration-ms="126" started-at="2017-05-02T05:51:24Z" finished-at="2017-05-02T05:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPlotNeedleVisibleWithValues -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.wundergroundTests.SeleniumTests.CustomizeTabTests@6f7fd0e6]" name="cleanup" is-config="true" duration-ms="124" started-at="2017-05-02T05:51:25Z" finished-at="2017-05-02T05:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.wundergroundTests.SeleniumTests.CustomizeTabTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
